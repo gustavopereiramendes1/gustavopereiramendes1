@@ -4,8 +4,8 @@ Eu sou um estudante de Ciência da Computação na Universidade Federal de Uberl
 <hr size="50">
 <table>
   <a href="https://github.com/leehxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopereiramendes1&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopereiramendes1&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavopereiramendes1&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopereiramendes1&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
 
 ### TECNOLOGIAS:
