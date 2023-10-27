@@ -3,7 +3,7 @@
 Eu sou um estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU) e Técnico em Computação Gráfica pelo Instituto Federal do Triângulo Mineiro (IFTM).
 <hr size="50">
 <table>
-  <a href="https://github.com/leehxd">
+  <a href="https://github.com/gustavopereiramendes1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavopereiramendes1&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopereiramendes1&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
