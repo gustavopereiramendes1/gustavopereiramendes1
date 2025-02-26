@@ -16,9 +16,8 @@ Sou um estudante de Ciência da Computação na Universidade Federal de Uberlân
 
 
 ## 💡 Tecnologias
-<div>
-  <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-3776AB?style=for-the-badge&logo=unity&logoColor=white"/>
-</div>
+  ![DJANGO](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white) ![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-3776AB?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-3776AB?style=for-the-badge&logo=git&logoColor=white)  ![UNITY](https://img.shields.io/badge/Unity-3776AB?style=for-the-badge&logo=unity&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-3776AB?style=for-the-badge) 
+
 
 ## Estatíticas no GitHub
 <table>
